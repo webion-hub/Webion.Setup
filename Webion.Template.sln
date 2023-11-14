@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2316235D-B463-41AA-BE36-8F34D793E248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webion.Template.Application", "src\Webion.Template.Application\Webion.Template.Application.csproj", "{40DDB787-5E6C-49B4-BAE8-525760AF389C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webion.Template.Core", "src\Webion.Template.Core\Webion.Template.Core.csproj", "{6E0B57E4-2E0B-4BF7-820C-2FC6FAEC1169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webion.Template.Migrations", "src\Webion.Template.Migrations\Webion.Template.Migrations.csproj", "{7D664B8E-25B0-49A9-987D-9391E7B7ECF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webion.Template.Storage", "src\Webion.Template.Storage\Webion.Template.Storage.csproj", "{BA744B53-E212-433B-A270-B36EA083C155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webion.Template.Api", "src\Webion.Template.Api\Webion.Template.Api.csproj", "{ABD923CC-EA09-4417-A7E2-8D4F1ED02972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40DDB787-5E6C-49B4-BAE8-525760AF389C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DDB787-5E6C-49B4-BAE8-525760AF389C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DDB787-5E6C-49B4-BAE8-525760AF389C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DDB787-5E6C-49B4-BAE8-525760AF389C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0B57E4-2E0B-4BF7-820C-2FC6FAEC1169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0B57E4-2E0B-4BF7-820C-2FC6FAEC1169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0B57E4-2E0B-4BF7-820C-2FC6FAEC1169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0B57E4-2E0B-4BF7-820C-2FC6FAEC1169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D664B8E-25B0-49A9-987D-9391E7B7ECF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D664B8E-25B0-49A9-987D-9391E7B7ECF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D664B8E-25B0-49A9-987D-9391E7B7ECF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D664B8E-25B0-49A9-987D-9391E7B7ECF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA744B53-E212-433B-A270-B36EA083C155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA744B53-E212-433B-A270-B36EA083C155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA744B53-E212-433B-A270-B36EA083C155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA744B53-E212-433B-A270-B36EA083C155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD923CC-EA09-4417-A7E2-8D4F1ED02972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD923CC-EA09-4417-A7E2-8D4F1ED02972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD923CC-EA09-4417-A7E2-8D4F1ED02972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD923CC-EA09-4417-A7E2-8D4F1ED02972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40DDB787-5E6C-49B4-BAE8-525760AF389C} = {2316235D-B463-41AA-BE36-8F34D793E248}
+		{6E0B57E4-2E0B-4BF7-820C-2FC6FAEC1169} = {2316235D-B463-41AA-BE36-8F34D793E248}
+		{7D664B8E-25B0-49A9-987D-9391E7B7ECF0} = {2316235D-B463-41AA-BE36-8F34D793E248}
+		{BA744B53-E212-433B-A270-B36EA083C155} = {2316235D-B463-41AA-BE36-8F34D793E248}
+		{ABD923CC-EA09-4417-A7E2-8D4F1ED02972} = {2316235D-B463-41AA-BE36-8F34D793E248}
+	EndGlobalSection
+EndGlobal
