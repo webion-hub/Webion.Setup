@@ -2,7 +2,7 @@
 
 Templates for automatic setup of generic solutions and projects
 
-## How to user
+## How to use
 
 install: 
 ```c#
