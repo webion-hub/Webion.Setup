@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Webion",
+    "classifications": [ "Web", "ASP" ],
+    "identity": "Webion.Template.Migrations",
+    "name": "Webion Migrations project",
+    "shortName": "webion-migrations-proj",
+    "sourceName": "Webion.Template.Migrations",
+    "tags": {
+      "language": "C#",
+      "type": "solution"
+    },
+    "symbols": {
+        "ProjectName": {
+            "type": "parameter",
+            "isRequired": "true",
+            "description": "Short PascalCase name for the project, used where it's appended to class names",
+            "datatype": "text",
+            "replaces": "{ProjectName}"
+        }
+    },
+    "preferNameDirectory": true
+}

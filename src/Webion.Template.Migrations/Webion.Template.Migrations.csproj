@@ -26,4 +26,8 @@
       <Folder Include="Migrations\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include=".template.config\template.json" />
+    </ItemGroup>
+
 </Project>

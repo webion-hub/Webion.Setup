@@ -34,4 +34,8 @@
   <ItemGroup>
     <Compile Remove="Controllers\TestController.cs" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Content Include=".template.config\template.json" />
+  </ItemGroup>
 </Project>
